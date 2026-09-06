@@ -29,7 +29,7 @@ export default function App() {
           },
           headerTitleStyle: {
               fontSize: 24,
-              fontFamily: 'Sergoe UI',
+              fontFamily: 'Segoe UI',
               fontWeight: 'semibold',
               color: '#fff', // Example color to match the rest of the app
           },

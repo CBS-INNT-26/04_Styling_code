@@ -47,7 +47,7 @@ export const GlobalStyle = StyleSheet.create({
     itemText: {
         fontSize: 12,
         fontFamily: 'Segoe UI',
-        fontWeight: 'semi-bold',
+        fontWeight: '600',
         color: 'black',
     },
     buttonContainer: {

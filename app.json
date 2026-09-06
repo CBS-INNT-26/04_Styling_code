@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "03_Lister_code",
-    "slug": "03_Lister_code",
+    "name": "04_Styling_code",
+    "slug": "04_Styling_code",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
